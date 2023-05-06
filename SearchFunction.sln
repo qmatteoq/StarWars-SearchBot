@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchFunction", "SearchFunction\SearchFunction.csproj", "{042BEC54-8A43-4BE7-B0DD-1FC1C138691C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchBot", "SearchBot\SearchBot.csproj", "{9A9DABFC-4088-4890-89F9-FCDE281EDB89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search.Common", "Search.Common\Search.Common.csproj", "{3350A604-CC95-4CCA-895E-2B43C9A74AD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{73768374-A793-4FD1-8C26-28E208760C69}"
+	ProjectSection(SolutionItems) = preProject
+		Content\Bo-Katan Kryze.docx = Content\Bo-Katan Kryze.docx
+		Content\Grogu.docx = Content\Grogu.docx
+		Content\Mandalorian.docx = Content\Mandalorian.docx
+		Content\Razor Crest.docx = Content\Razor Crest.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042BEC54-8A43-4BE7-B0DD-1FC1C138691C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042BEC54-8A43-4BE7-B0DD-1FC1C138691C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042BEC54-8A43-4BE7-B0DD-1FC1C138691C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042BEC54-8A43-4BE7-B0DD-1FC1C138691C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9DABFC-4088-4890-89F9-FCDE281EDB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9DABFC-4088-4890-89F9-FCDE281EDB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9DABFC-4088-4890-89F9-FCDE281EDB89}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9A9DABFC-4088-4890-89F9-FCDE281EDB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9DABFC-4088-4890-89F9-FCDE281EDB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9DABFC-4088-4890-89F9-FCDE281EDB89}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3350A604-CC95-4CCA-895E-2B43C9A74AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3350A604-CC95-4CCA-895E-2B43C9A74AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3350A604-CC95-4CCA-895E-2B43C9A74AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3350A604-CC95-4CCA-895E-2B43C9A74AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD782F0-BAFE-4972-9D85-F8ACFC3A84CE}
+	EndGlobalSection
+EndGlobal
